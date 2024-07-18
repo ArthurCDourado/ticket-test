@@ -10,6 +10,7 @@ Tecnologias Utilizadas
 
     Java: Linguagem principal utilizada para o desenvolvimento do sistema.
     Spring Boot: Framework utilizado para facilitar o desenvolvimento de aplicações Java.
+    Spring: Estrutura de desenvolvimento de aplicações em Java que oferece suporte abrangente para a criação de aplicações robustas.
     H2: Banco em memória utilizado para persistir os dados.
     Postman: Ferramenta utilizada para testes de API.
 
